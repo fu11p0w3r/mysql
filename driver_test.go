@@ -10,7 +10,7 @@ package mysql
 
 import (
 	"bytes"
-	"context"
+	"golang.org/x/net/context"
 	"crypto/tls"
 	"database/sql"
 	"database/sql/driver"
