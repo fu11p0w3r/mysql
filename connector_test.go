@@ -1,7 +1,7 @@
 package mysql
 
 import (
-	"context"
+	"golang.org/x/net/context"
 	"net"
 	"testing"
 	"time"
