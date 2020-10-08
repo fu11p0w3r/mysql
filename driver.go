@@ -17,7 +17,7 @@
 package mysql
 
 import (
-	"context"
+	"golang.org/x/net/context"
 	"database/sql"
 	"database/sql/driver"
 	"net"
